@@ -1,4 +1,5 @@
 # Universal Robots ROS2 Driver
+Pacote modificado por Sabrina Cardoso (sabrina.cardoso@ee.ufcg.edu.br)
 
 Universal Robots has become a dominant supplier of lightweight, robotic manipulators for industry, as well as for scientific research and education.
 <center><img src="ur_robot_driver/doc/installation/initial_setup_images/e-Series.jpg" alt="Universal Robot e-Series family" style="width: 80%;"/></center>
